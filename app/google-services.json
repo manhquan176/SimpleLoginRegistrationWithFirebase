@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "825809056726",
+    "firebase_url": "https://simpleloginregistration-c8ee0.firebaseio.com",
+    "project_id": "simpleloginregistration-c8ee0",
+    "storage_bucket": "simpleloginregistration-c8ee0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825809056726:android:1a3198cbee6d0791",
+        "android_client_info": {
+          "package_name": "com.nguyenmanhquan176.simpleloginregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825809056726-qv05cpkvg6cf589u3eal6kqr8ra48ld6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nguyenmanhquan176.simpleloginregistration",
+            "certificate_hash": "A13C05CB28F53363BBCB25572093C1881A55C4BE"
+          }
+        },
+        {
+          "client_id": "825809056726-5fjf4duc9fl9glufbo43fdvq89k6lig6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWVS6jPppl6I2pHrAU_t-p-yybLQ14LBw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825809056726-5fjf4duc9fl9glufbo43fdvq89k6lig6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
